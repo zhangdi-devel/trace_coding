@@ -7,4 +7,4 @@ Two functions were defined:
 
 Two concerns:
 - The description says each cell is a positive integer, but in the example there are zeros. These initial zeros are considered no carrots as the visied cells.
-- If there is tie bwteen any of the four possible next steps, bunny will go for the last one it checks [left, right, up, down].
+- If there is tie bwteen any of the four possible next steps, bunny will go for the first one it checks [left, right, up, down].
